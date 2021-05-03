@@ -5,9 +5,9 @@
 
 ## About Me
 
-I'm Ilari Suhonen (a.k.a. blue), a young software developer focusing on projects related to Minecraft!
+I'm Blue, a young software developer focusing on projects related to physics, maths, and Minecraft!
 
-I created my first project in scratch when I was twelve. Since then, I've dabbled in languages like Java, JavaScript, PowerShell, Batch, Python, and Go, to name a few. Right now, I'm mostly focusing on Java, and everything related to it.
+I spend a lot of my time working on all kinds of [software](https://github.com/bluelhf/Nxxt), [simple arcade games](https://editor.p5js.org/bluelhf/sketches/U99Wc4tm3), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
 
 ## Highlights
 
