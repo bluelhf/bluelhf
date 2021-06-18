@@ -1,5 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/52505120/122585044-b6ac0a80-d063-11eb-8dd8-87bb232c5f56.png" width="20%"/>
-
 # Hi! I'm Ilari!
 
 I'm a young software developer focusing on projects related to physics, maths, and Minecraft.  
