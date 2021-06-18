@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52505120/116908564-bc809480-ac4b-11eb-8baf-35b80852e6b8.gif" width="10%"/>
+<img src="https://avatars.githubusercontent.com/u/52505120?v=4" width="10%"/>
 
 # Hi! I'm Ilari!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bluelhf&show-icons=true&theme=algolia"/> 
