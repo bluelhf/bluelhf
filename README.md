@@ -1,13 +1,14 @@
-<img src="https://avatars.githubusercontent.com/u/52505120?v=4" width="10%"/>
+<img align="left" src="https://user-images.githubusercontent.com/52505120/122585044-b6ac0a80-d063-11eb-8dd8-87bb232c5f56.png" width="20%"/>
 
 # Hi! I'm Ilari!
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bluelhf&show-icons=true&theme=algolia"/> 
-
-## About Me
 
 I'm Ilari, a young software developer focusing on projects related to physics, maths, and Minecraft!
 
-I spend a lot of my time working on all kinds of [software](https://github.com/bluelhf/Nxxt), [simple arcade games](https://editor.p5js.org/bluelhf/sketches/U99Wc4tm3), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
+I spend a lot of my time working on all kinds of  
+[software](https://github.com/bluelhf/Nxxt), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
+
+<br clear="left"/>
+
 
 ## Highlights
 
