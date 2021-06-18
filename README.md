@@ -2,10 +2,8 @@
 
 # Hi! I'm Ilari!
 
-I'm Ilari, a young software developer focusing on projects related to physics, maths, and Minecraft!
-
-I spend a lot of my time working on all kinds of  
-[software](https://github.com/bluelhf/Nxxt), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
+I'm a young software developer focusing on projects related to physics, maths, and Minecraft.  
+I spend a lot of my time working on all kinds of [software](https://github.com/bluelhf/Nxxt), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
 
 <br clear="left"/>
 
