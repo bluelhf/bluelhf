@@ -8,7 +8,7 @@ I spend a lot of my time working on all kinds of [software](https://github.com/b
 
 ## Highlights
 
-<img align="right" src="https://user-images.githubusercontent.com/52505120/185116394-726866fc-d779-4657-8f4b-7fd38f70d08e.png" width="35%"/>
+<img align="right" src="https://user-images.githubusercontent.com/52505120/185116394-726866fc-d779-4657-8f4b-7fd38f70d08e.png" width="55%"/>
 
 I completed the University of Helsinki course "Elements of AI" in 2022, at the age of 16. The course included several topics,
 such as neural networks, regression, the definitions of AI and machine learning, questions about the ethics of machine learning,
