@@ -8,6 +8,17 @@ I spend a lot of my time working on all kinds of [software](https://github.com/b
 
 ## Highlights
 
+<img align="right" src="https://user-images.githubusercontent.com/52505120/185116394-726866fc-d779-4657-8f4b-7fd38f70d08e.png" width="35%"/>
+
+I completed the University of Helsinki course "Elements of AI" in 2022, at the age of 16. The course included several topics,
+such as neural networks, regression, the definitions of AI and machine learning, questions about the ethics of machine learning,
+and even several famous logic puzzles such as the towers of Hanoi and the chicken crossing.
+
+I've also had previous experience with machine learning, neural networks specifically, in both academic contexts and in my own
+projects. Due to this previous experience, I completed the course in under two hours — significantly less than the five-week
+period reserved for it.
+<br clear="right"/>
+
 <img align="left" src="https://user-images.githubusercontent.com/52505120/116906388-dec4e300-ac48-11eb-8064-f9cb2cd04630.gif" width="55%"/>
 
 This GIF is a demonstration of packet invisibility using a [Wellspring](https://github.com/Moderocky/Wellspring) server.  
