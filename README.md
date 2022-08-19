@@ -25,7 +25,9 @@ This is a visualisation of the QuickSort array sorting algorithm, which uses a d
 </p>
 
 ---
-
+<p align="center">
 <img src="https://media.discordapp.net/attachments/135877399391764480/838462236535816222/unknown.png" width="100%"/>
-
+</p>
+<p align="justify">
 This image demonstrates AntiLagger, a Minecraft modification with the purpose of reducing lag caused by bad actors intentionally attempting to slow the server down. Minecraft servers operate by ticking, in an ideal case, 20 times every second. Unfortunately, malicious players can try to lower the ticks-per-second (TPS) value of the server to cause performance issues on the gameserver, and in some cases even the host computer. AntiLagger combats this by splitting the game world into 16x16 sections (chunks), and limiting how many entities (hostile mobs, players, etc.) and blocks can be ticked in a given chunk for every server tick. 
+</p>
