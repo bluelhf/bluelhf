@@ -1,7 +1,21 @@
 # Hi! I'm Ilari!
 
-I'm a young software developer focusing on projects related to Java, mathematics, general software development, and Minecraft. 
-I spend a lot of my time working on all kinds of [software](https://github.com/bluelhf/Nxxt), [visualisations](https://editor.p5js.org/bluelhf/sketches/MhuK4VahY), [plugins](https://github.com/bluelhf/ChatCat), and [mods!](https://github.com/bluelhf/Sprint)
+I'm a young software developer focusing on whatever happens to pique my curiosity on any given day. I have been writing Java ☕ since 2019, and Rust 🦀 since 2021. I value correctness and performance, sometimes to a fault: it's quite easy for me to get side-tracked and spend several hours honing a single small detail.
+
+Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 19th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
+
+### Languages
+- **🇫🇮 (Native)**
+- **🇬🇧 (C2 Proficiency, [EF SET](https://www.efset.org/cert/mUcxPG))**
+
+### Programming Languages
+|Language  |Cool Emoji|Starting year|
+|----------|----------|-------------|
+|Java      |☕         |2019         |
+|Python    |🐍        |2019         |
+|JavaScript|          |2020         |
+|C         |          |2021         |
+|Rust      |🦀        |2021         |
 
 ## Highlights
 
