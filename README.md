@@ -22,11 +22,14 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 
 
 ## Cybersecurity endeavours
+<img align="right" src=https://user-images.githubusercontent.com/52505120/207833548-ed0e8410-4272-450d-9dbb-e8efbc5fdd6d.png width="40%"/>
 
+<p align="justify">
 Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 11th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
-
-<img src=https://user-images.githubusercontent.com/52505120/207833548-ed0e8410-4272-450d-9dbb-e8efbc5fdd6d.png width="100%"/>
-
+  
+The image on the right is of the Cyber Battle of Nordic Baltics 2022, in which I participated in the team "chad protonmail :D", or as other teams took to calling us, just "chad".
+</p>
+<br/><br/><br/><br/>
 
 ## Highlights
 
