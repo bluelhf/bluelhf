@@ -7,16 +7,20 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 |----------|----------|-------------|-----------|
 |Java      |☕         |2019         |⭐⭐⭐⭐⭐ |
 |Python    |🐍        |2019         |⭐⭐⭐     |
-|JavaScript|          |2020         |⭐⭐⭐⭐   |
-|C         |          |2021         |⭐⭐       |
+|JavaScript|🌐        |2020         |⭐⭐⭐⭐   |
+|C         |🖥️        |2021         |⭐⭐       |
 |Rust      |🦀        |2021         |⭐⭐⭐     |
 |X86_ASM   |🧑‍💻        |2022         |⭐         |
 
-Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 19th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
+### Real Languages
+|Language  |Cool Emoji|Starting Year|Proficiency                                               |
+|----------|----------|-------------|----------------------------------------------------------|
+|Finnish   |🇫🇮        |2005         |Native Speaker                                            |
+|English   |🇬🇧        |2014         |C2 Proficient, [EF SET](https://www.efset.org/cert/mUcxPG)|
+|Swedish   |🇸🇪        |2017         |Low                                                       |
+|German    |🇩🇪        |2016         |Low                                                       |
 
-### Languages
-- **🇫🇮 (Native)**
-- **🇬🇧 (C2 Proficiency, [EF SET](https://www.efset.org/cert/mUcxPG))**
+Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 19th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
 
 ## Highlights
 
