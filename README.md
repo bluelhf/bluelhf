@@ -20,7 +20,13 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 |Swedish   |🇸🇪        |2017         |Low                                                       |
 |German    |🇩🇪        |2016         |Low                                                       |
 
-Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 19th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
+
+## Cybersecurity endeavours
+
+Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 11th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
+
+<img src=https://user-images.githubusercontent.com/52505120/207833548-ed0e8410-4272-450d-9dbb-e8efbc5fdd6d.png width="100%"/>
+
 
 ## Highlights
 
