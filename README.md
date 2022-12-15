@@ -1,21 +1,22 @@
 # Hi! I'm Ilari!
 
-I'm a young software developer focusing on whatever happens to pique my curiosity on any given day. I have been writing Java ☕ since 2019, and Rust 🦀 since 2021. I value correctness and performance, sometimes to a fault: it's quite easy for me to get side-tracked and spend several hours honing a single small detail.
+I'm a young software developer doing whatever happens to pique my curiosity on any given day. I value correctness and performance, sometimes to a fault: it's quite easy for me to get side-tracked and spend several hours honing a single small detail.
+
+### Programming Languages
+|Language  |Cool Emoji|Starting Year|Proficiency|
+|----------|----------|-------------|-----------|
+|Java      |☕         |2019         |⭐⭐⭐⭐⭐ |
+|Python    |🐍        |2019         |⭐⭐⭐     |
+|JavaScript|          |2020         |⭐⭐⭐⭐   |
+|C         |          |2021         |⭐⭐       |
+|Rust      |🦀        |2021         |⭐⭐⭐     |
+|X86_ASM   |🧑‍💻        |2022         |⭐         |
 
 Along with software development, I've also taken up ethical hacking. I've actually competed in two national hacking competitions, placing fourth and first respectively, and one international one, where my team and I placed 19th. We were very happy with this placement, having been one of the smallest and least-experienced teams in the competition.
 
 ### Languages
 - **🇫🇮 (Native)**
 - **🇬🇧 (C2 Proficiency, [EF SET](https://www.efset.org/cert/mUcxPG))**
-
-### Programming Languages
-|Language  |Cool Emoji|Starting year|
-|----------|----------|-------------|
-|Java      |☕         |2019         |
-|Python    |🐍        |2019         |
-|JavaScript|          |2020         |
-|C         |          |2021         |
-|Rust      |🦀        |2021         |
 
 ## Highlights
 
@@ -34,6 +35,17 @@ This is a visualisation of the QuickSort array sorting algorithm, which uses a d
 </p>
 
 ---
+
+</p>
+<p align="center">
+<video src="https://user-images.githubusercontent.com/52505120/193426671-60e6ef9b-9617-4750-8496-f983779a0d31.mp4" width="100%"/>
+</p>
+<p align="justify">
+  This is an <a href="https://github.com/bluelhf/audio-whiz">audio visualiser</a> I wrote in Rust. It usilises Nannou for graphics, and an FFT library for obtaining the frequency spectrum for audio from a .WAV file. All signal processing, such as windowing, padding, and other operations are done manually using home-made DSP. The video shows an early demo of the visualiser output for Nightwish' live cover of Phantom of the Opera, sung by Tarja Turunen.
+</p>
+
+---
+
 <p align="center">
 <img src="https://media.discordapp.net/attachments/135877399391764480/838462236535816222/unknown.png" width="100%"/>
 </p>
