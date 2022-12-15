@@ -12,7 +12,7 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 |Rust      |🦀        |2021         |⭐⭐⭐     |
 |X86_ASM   |🧑‍💻        |2022         |⭐         |
 
-### Real Languages
+### Languages
 |Language  |Cool Emoji|Starting Year|Proficiency                                               |
 |----------|----------|-------------|----------------------------------------------------------|
 |Finnish   |🇫🇮        |2005         |Native Speaker                                            |
