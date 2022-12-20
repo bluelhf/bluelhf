@@ -3,6 +3,9 @@
 I'm a young software developer doing whatever happens to pique my curiosity on any given day. I value correctness and performance, sometimes to a fault: it's quite easy for me to get side-tracked and spend several hours honing a single small detail.
 
 ### Programming Languages
+
+<img align="right" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=bluelhf&theme=github_dark&layout=compact&range=30&langs_count=10&custom_title=Time+per+language+(past+month)&hide_border=true"/>
+
 |Language  |Cool Emoji|Starting Year|Proficiency|
 |----------|----------|-------------|-----------|
 |Java      |☕         |2019         |⭐⭐⭐⭐⭐ |
@@ -11,6 +14,7 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 |C         |🖥️        |2021         |⭐⭐       |
 |Rust      |🦀        |2021         |⭐⭐⭐     |
 |X86_ASM   |🧑‍💻        |2022         |⭐         |
+
 
 ### Languages
 |Language  |Cool Emoji|Starting Year|Proficiency                                               |
