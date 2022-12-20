@@ -4,7 +4,7 @@ I'm a young software developer doing whatever happens to pique my curiosity on a
 
 ### Programming Languages
 
-<img align="right" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=bluelhf&theme=github_dark&layout=compact&range=30&langs_count=10&custom_title=Time+per+language+(past+month)&hide_border=true"/>
+<img align="right" width="40%" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=bluelhf&theme=github_dark&layout=compact&range=30&langs_count=10&custom_title=Time+per+language+(past+month)&hide_border=true"/>
 
 |Language  |Cool Emoji|Starting Year|Proficiency|
 |----------|----------|-------------|-----------|
