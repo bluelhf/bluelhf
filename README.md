@@ -54,9 +54,9 @@ This is a visualisation of the QuickSort array sorting algorithm, which uses a d
 ---
 
 </p>
-<p align="center">
-<video src="https://user-images.githubusercontent.com/52505120/193426671-60e6ef9b-9617-4750-8496-f983779a0d31.mp4" width="100%"/>
-</p>
+
+https://user-images.githubusercontent.com/52505120/193426671-60e6ef9b-9617-4750-8496-f983779a0d31.mp4
+
 <p align="justify">
   This is an <a href="https://github.com/bluelhf/audio-whiz">audio visualiser</a> I wrote in Rust. It utilises Nannou for graphics, and an FFT library for obtaining the frequency spectrum for audio from a .WAV file. All signal processing, such as windowing, padding, and other operations are done manually using home-made DSP. The video shows an early demo of the visualiser output for Nightwish' live cover of Phantom of the Opera, sung by Tarja Turunen.
 </p>
