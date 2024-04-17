@@ -60,12 +60,3 @@ https://user-images.githubusercontent.com/52505120/193426671-60e6ef9b-9617-4750-
 <p align="justify">
   This is an <a href="https://github.com/bluelhf/audio-whiz">audio visualiser</a> I wrote in Rust. It utilises Nannou for graphics, and an FFT library for obtaining the frequency spectrum for audio from a .WAV file. All signal processing, such as windowing, padding, and other operations are done manually using home-made DSP. The video shows an early demo of the visualiser output for Nightwish' live cover of Phantom of the Opera, sung by Tarja Turunen.
 </p>
-
----
-
-<p align="center">
-<img src="https://media.discordapp.net/attachments/135877399391764480/838462236535816222/unknown.png" width="100%"/>
-</p>
-<p align="justify">
-This image demonstrates AntiLagger, a Minecraft modification with the purpose of reducing lag caused by bad actors intentionally attempting to slow the server down. Minecraft servers operate by ticking, in an ideal case, 20 times every second. Unfortunately, malicious players can try to lower the ticks-per-second (TPS) value of the server to cause performance issues on the gameserver, and in some cases even the host computer. AntiLagger combats this by splitting the game world into 16x16 sections (chunks), and limiting how many entities (hostile mobs, players, etc.) and blocks can be ticked in a given chunk for every server tick. 
-</p>
